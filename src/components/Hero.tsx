@@ -83,7 +83,7 @@ export default function Hero() {
                 <Linkedin size={18} />
               </a>
               <a
-                href="mailto:maddhesiyaabhishek@gmail.com"
+                href="mailto:maddhesiyaabhishek04@gmail.com"
                 className="w-10 h-10 rounded-xl bg-slate-800 hover:bg-sky-500/20 hover:border-sky-500 border border-slate-700 flex items-center justify-center text-slate-400 hover:text-sky-400 transition-all duration-200"
               >
                 <Mail size={18} />
@@ -115,7 +115,7 @@ export default function Hero() {
               {/* Photo container */}
               <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-sky-500/40 shadow-2xl shadow-sky-500/20 animate-pulse-glow">
                 <img
-                  src="/WhatsApp_Image_2026-05-04_at_2.55.28_PM.jpeg"
+                  src="/public/WhatsApp_Image_2026-05-04_at_2.55.28_PM.jpeg"
                   alt="Abhishek Gupta"
                   loading="lazy"
                   className="w-full h-full object-cover object-center"
